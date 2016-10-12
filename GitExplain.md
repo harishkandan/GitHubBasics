@@ -14,7 +14,7 @@ The core of Git was originally written in the programming language C , but Git h
 
 You can use a Git repository to store the documentation for an IT project or service. The repository's commit history will reflect changes in the IT project or service over time. You can store configuration files in a Git repository.
 
-### [GitHub Workflow](https://github.com/mohan08p/GitHubBasics/images/800px-Git_workflow.png)
+### [GitHub Workflow](https://github.com/mohan08p/GitHubBasics/blob/master/images/800px-Git_workflow.png)
 
 A Git repository contains the history of a collection of files starting from a certain directory. The process of copying an existing Git repository via the Git tooling is called cloning. After cloning a repository the user has the complete repository with its history on his local machine. Of course, Git also supports the creation of new repositories.
 
